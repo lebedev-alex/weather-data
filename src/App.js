@@ -1,8 +1,10 @@
 import React from 'react';
+import Weather from './Weather';
+
 
 function App() {
   return (
-    <h1>Hello, World</h1>
+    <Weather />
   );
 }
 
